@@ -6,5 +6,6 @@
 - 📫 How to reach me: ssrishty1101@gmail.com  ||  +9197737171509
 - 😄 Pronouns: People call me Akshi
 - 🧐 Works - 
-     1. https://to-do-check.firebaseapp.com/
+     1. [To-Do App](https://to-do-check.firebaseapp.com/) 
+     2. [Not-A-Netflix-Basic](https://not-a-netflix.web.app/)
     
